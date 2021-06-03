@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RoteirosBeja</string>
+
+    <string-array name="titulo_roteiros">
+
+        <item>Castelo de Beja</item>
+        <item>Museu Regional de Beja</item>
+        <item>Museu Jorge Vieira</item>
+
+    </string-array>
+
+    <string-array name="descrição_roteiros">
+
+        <item>O Castelo de .</item>
+        <item>Também re</item>
+        <item>Este museu </item>
+
+    </string-array>
+
+
+</resources>
