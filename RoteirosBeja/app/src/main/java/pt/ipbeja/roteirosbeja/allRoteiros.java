@@ -19,7 +19,7 @@ public class allRoteiros extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_all_roteiros);
 
-        recyclerView = findViewById(R.id.recycler_view);
+        recyclerView = findViewById(R.id.recyclerView);
 
         s1 = getResources().getStringArray(R.array.titulo_roteiros);
         s2 = getResources().getStringArray(R.array.descrição_roteiros);

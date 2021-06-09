@@ -9,8 +9,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RoteirosBeja">
-        <activity android:name=".allRoteiros"></activity>
-        <activity android:name=".ActivityLanguage" />
+        <activity android:name=".GuidedVisit"
+            android:parentActivityName=".eachRoteiros"
+            android:label="fase">
+        </activity>
+        <activity
+            android:name=".eachRoteiros"
+            android:label="Roteiro"
+            android:parentActivityName=".allRoteiros" />
+        <activity
+            android:name=".allRoteiros"
+            android:label="Roteiros"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".ActivityLanguage"
+            android:label="Languages"
+            android:parentActivityName=".MainActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
