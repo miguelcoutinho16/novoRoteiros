@@ -21,7 +21,7 @@
             android:layout_height="match_parent">
 
             <ImageView
-                android:id="@+id/myImageView"
+                android:id="@+id/imageView"
                 android:layout_width="150dp"
                 android:layout_height="150dp"
                 app:layout_constraintBottom_toBottomOf="parent"
@@ -31,23 +31,34 @@
                 tools:srcCompat="@tools:sample/avatars" />
 
             <TextView
-                android:id="@+id/myText1"
+                android:id="@+id/textViewName"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="12dp"
                 android:layout_marginTop="24dp"
                 android:text="titulo"
                 android:textSize="18sp"
-                app:layout_constraintStart_toEndOf="@+id/myImageView"
+                app:layout_constraintStart_toEndOf="@+id/imageView"
                 app:layout_constraintTop_toTopOf="parent" />
 
             <TextView
-                android:id="@+id/myText2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:id="@+id/textViewDescription"
+                android:layout_width="194dp"
+                android:layout_height="97dp"
                 android:text="descrição"
-                app:layout_constraintStart_toStartOf="@+id/myText1"
-                app:layout_constraintTop_toBottomOf="@+id/myText1" />
+                android:textAlignment="textStart"
+                android:textSize="12sp"
+                app:layout_constraintStart_toStartOf="@+id/textViewName"
+                app:layout_constraintTop_toBottomOf="@+id/textViewName" />
+
+            <CheckBox
+                android:id="@+id/cbBookmark"
+                android:layout_width="29dp"
+                android:layout_height="47dp"
+                android:layout_marginTop="42dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
         </androidx.constraintlayout.widget.ConstraintLayout>
     </androidx.cardview.widget.CardView>
 </androidx.constraintlayout.widget.ConstraintLayout>

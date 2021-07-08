@@ -8,29 +8,27 @@ import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
 
+    private MonumentAdapter adapter;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
     }
 
     public void onClickStart(View view){
 
-        Intent intent = new Intent(this, allRoteiros.class);
-        startActivity(intent);
-    }
-
-    public void onClickLanguage(View view){
-
-        Intent intent = new Intent(this, ActivityLanguage.class);
+        Intent intent = new Intent(this, AllRoteirosActivity.class);
         startActivity(intent);
     }
 
     public void onClickSair(View view){
+        finish();
+    }
 
-        Intent intent = new Intent(this, MainActivity.class);
-        startActivity(intent);
+    protected void onStart() {
+        super.onStart();
+        AppDatabase.getInstance(this).getMonumentDAO().getAll();
     }
 }

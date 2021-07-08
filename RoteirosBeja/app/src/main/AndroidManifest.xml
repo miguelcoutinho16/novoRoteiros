@@ -2,23 +2,27 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="pt.ipbeja.roteirosbeja">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.RoteirosBeja">
-        <activity android:name=".GuidedVisit"
-            android:parentActivityName=".eachRoteiros"
-            android:label="fase">
-        </activity>
+        android:theme="@style/Theme.RoteirosBeja"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".FreeVisitActivity" />
         <activity
-            android:name=".eachRoteiros"
+            android:name=".GuidedVisitActivity"
+            android:label=""
+            android:parentActivityName=".EachRoteirosActivity" />
+        <activity
+            android:name=".EachRoteirosActivity"
             android:label="Roteiro"
-            android:parentActivityName=".allRoteiros" />
+            android:parentActivityName=".AllRoteirosActivity" />
         <activity
-            android:name=".allRoteiros"
+            android:name=".AllRoteirosActivity"
             android:label="Roteiros"
             android:parentActivityName=".MainActivity" />
         <activity
