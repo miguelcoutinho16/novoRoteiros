@@ -10,7 +10,7 @@
   ],
   "InterestPoint": {
       "idPoint": 1,
-      "monumentId": "monumentId",
+      "monumentId": "1",
       "name": "name",
       "description": "description",
       "images": ""
