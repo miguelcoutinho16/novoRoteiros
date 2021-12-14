@@ -5,7 +5,7 @@
       "title": "title",
       "shortDescription": "sdesc",
       "longDescription": "ldesc",
-      "image": "",
+      "image": ""
     }
   ],
   "InterestPoint": {
@@ -13,6 +13,6 @@
       "monumentId": "monumentId",
       "name": "name",
       "description": "description",
-      "images": "",
+      "images": ""
   }
 }
