@@ -1,11 +1,18 @@
 {
-  "posts": [
+  "Monument": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "title",
+      "shortDescription": "sdesc",
+      "longDescription": "ldesc",
+      "image": "",
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "InterestPoint": {
+      "idPoint": 1,
+      "monumentId": "monumentId",
+      "name": "name",
+      "description": "description",
+      "images": "",
   }
 }
