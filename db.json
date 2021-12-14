@@ -6,13 +6,36 @@
       "shortDescription": "sdesc",
       "longDescription": "ldesc",
       "image": ""
+    },
+    {
+      "id": 2,
+      "title": "title",
+      "shortDescription": "sdesc",
+      "longDescription": "ldesc",
+      "image": ""
     }
   ],
-  "InterestPoint": {
-      "idPoint": 1,
-      "monumentId": "1",
-      "name": "name",
-      "description": "description",
-      "images": ""
-  }
+  "InterestPoint": [
+      {
+        "idPoint": 1,
+        "monumentId": "1",
+        "name": "name",
+        "description": "description",
+        "images": ""
+      }, 
+          {
+        "idPoint": 2,
+        "monumentId": "1",
+        "name": "name",
+        "description": "description",
+        "images": ""
+      },
+          {
+        "idPoint": 3,
+        "monumentId": "2",
+        "name": "name",
+        "description": "description",
+        "images": ""
+      }
+    ]
 }
