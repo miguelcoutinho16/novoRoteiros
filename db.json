@@ -79,6 +79,22 @@
         "description": "Leonor de Avis ou Leonor de Portugal (1458-1525) foi Rainha ao lado do Rei D. João II (1455-1495). É uma obra do escultor Francisco Franco (1885-1955), homenagendo a monarca que mandou erguer nas Caldas da Rainha, um hospital termal, inaugurado em 1488, dinamizando assim este pequeno lugar com cerca de 30 habitantes, transformando-o na grande cidade que se ergueu em volta do complexo de águas quentes curativas e de cheiro forte.",
         "images": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/770766",
         "cords": "38.014465993685434, -7.862596573995358"
-      }
-  ]
+      },
+          {
+        "idPoint": 10,
+        "monumentId": "2",
+        "name": "Igreja da Misericórdia",
+        "description": "Erguida no século XVI a mando do Infante D. Luís, trata-se de um edifício único no panorama da arquitectura portuguesa. Trata-se de um edifício único no panorama da arquitectura nacional. Quando, pouco depois de 1530, o infante D. Luís, duque de Beja, mandou erguer a actual Igreja da Misericórdia, a ideia era fazer uns açougues no topo da principal praça da cidade. O edifício seguia a tipologia das loggia italianas, profundamente influenciado pelo Renascimento italiano. O edifício tinha tal magnificência que o próprio D. Luís o considerou desadequado para a sua função inicial, tendo-o oferecido à confraria da Santa Casa da Misericórdia para a instalação da respectiva igreja, sendo adaptado a esta função.",
+        "images": "https://cm-beja.pt/util/imgLoader2.ashx?img=/upload_files/client_id_1/website_id_1/Beja/IMG_597111.JPG",
+        "cords": "38.01669964568713, -7.8610520042709"
+      },
+          {
+        "idPoint": 11,
+        "monumentId": "3",
+        "name": "Villa Romana de Pisões",
+        "description": "A Villa romana de Pisões é um sítio arqueológico no concelho de Beja, em Portugal. Consiste numa grande casa senhorial do período romano, que foi ocupada desde o Século I até ao domínio visigótico. É uma das principais e melhor conservadas villas romanas em todo o país, tendo sido classificada como Imóvel de Interesse Público. É especialmente conhecida devido à riqueza dos seus mosaicos, e pelas suas termas, que estão entre as mais importantes no país.",
+        "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816614021360%29.jpg/1280px-Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816614021360%29.jpg",
+        "cords": "37.99773365503287, -7.948811262211767"
+          }
+    ]
 }
