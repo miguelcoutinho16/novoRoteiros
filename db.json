@@ -47,6 +47,110 @@
         "description": "As Portas de Avis, são um arco romano de pedra granítica, situado junto ao Terreirinho das Peças. Foi em tempos encimado por uma Ermida (Nossa Senhora da Guia), tendo sido ambos demolidos em finais do século XIX. No século XX, mais precisamente em 1939, o arco foi reconstruído, ficando com a estrutura atual. Até ao século XX, alguns autores, identificavam a Pax Julia romana com a cidade espanhola de Badajoz. Esta identificação foi avançada por Rodrigo Dosma, um cónego de Badajoz do século XVI, em cuja época era habitual a elaboração mais ou menos fantasiosa, quando não completamente inventada, da história de cidades, com o objetivo de demonstrar uma grande antiguidade e a origem romana ou anterior.",
         "images": "https://media-cdn.tripadvisor.com/media/photo-s/12/98/af/d1/arco-das-portas-de-avis.jpg",
         "cords": "38.01745492841789, -7.862350529282018"
+      },
+          {
+        "idPoint": 4,
+        "monumentId": "1",
+        "name": "Sé Catedral de Beja",
+        "description": "A paróquia de Santiago Maior é uma das mais antigas de Beja. No início, teve sede na Igreja de Santo Amaro, mas no século XIV foi transferida para este local, onde já existia uma igreja. O templo atual, em estilo maneirista, data de 1590, quando foi construído por vontade do arcebispo D. Teotónio de Bragança segundo um projeto de Jorge Rodrigues. Em matéria de arquitetura, este templo segue a tipologia maneirista, já aplicada noutros monumentos do Alentejo, como, por exemplo, na Igreja de Santo António em Évora. No interior, ricamente decorado, destacam-se o retábulo da capela-mor em talha dourada da autoria do mestre lisboeta Manuel João da Fonseca, datado de 1696-97.",
+        "images": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/84/10/63/cattedrale-di-beja-facciata.jpg?w=1200&h=-1&s=1",
+        "cords": "38.017669295169156, -7.864997953435491"
+      },
+          {
+        "idPoint": 5,
+        "monumentId": "1",
+        "name": "Museu Jorge Vieira",
+        "description": "Instalado, desde maio de 1995, num edifício do centro histórico da cidade, encontra-se desde 1 de setembro de 2019 na antiga casa do Governador, no Castelo de Beja, albergando um importante conjunto de esculturas, maquetas e desenhos da autoria de Jorge Vieira, artista plástico que marcou o percurso da arte portuguesa ao longo do século XX. Jorge Ricardo da Conceição Vieira nasceu em Lisboa, a16 de novembro de1922. Entre 1944 e 1953 frequentou a Escola de Belas-Artes de Lisboa, onde começou por se matricular em arquitetura transitando depois para escultura. Foi aluno de Simões de Almeida e Leopoldo de Almeida e trabalhou nos ateliers de António Duarte, Francisco Franco e António Rocha.",
+        "images": "https://visitasdeestudo.pt/wp-content/uploads/2020/03/Museu-Jorge-Vieira-00.jpg",
+        "cords": "38.01701524853704, -7.865036271610186"
+      },
+          {
+        "idPoint": 6,
+        "monumentId": "2",
+        "name": "Museu Rainha D. Leonor",
+        "description": "A colecção principal compreende a secção de arqueologia romana, com peças encontradas na região reveladoras da ocupação do território durante o império de Júlio César, a secção de epigrafia e heráldica medieval, constituída por um conjunto de brasões e lápides tumulares, e, no 2º piso do museu, a apresentação do espólio reunido pelo arqueólogo Fernando Nunes Ribeiro e doado à cidade, com peças desde a Idade do Bronze até à actualidade. O Convento foi fundado em 1459 pelo Infante D. Fernando, irmão de Afonso V de Portugal, e sua esposa, a Infanta D. Beatriz. O convento, primitivamente era bastante amplo mas, séculos mais tarde, sofreu a demolição de uma parte.",
+        "images": "https://www.info4camper.com/fotos/visitar/pt/large/photos-7488-8836-museu_rainha_dona_leonor.jpg?image=2",
+        "cords": "38.014322661762336, -7.862612737220794"
+      },
+          {
+        "idPoint": 7,
+        "monumentId": "2",
+        "name": "Estátua da Rainha Dona Leonor",
+        "description": "Estátua da Rainha Dona Leonor', 'Leonor de Avis ou Leonor de Portugal (1458-1525) foi Rainha ao lado do Rei D. João II (1455-1495). É uma obra do escultor Francisco Franco (1885-1955), homenagendo a monarca que mandou erguer nas Caldas da Rainha, um hospital termal, inaugurado em 1488, dinamizando assim este pequeno lugar com cerca de 30 habitantes, transformando-o na grande cidade que se ergueu em volta do complexo de \"águas quentes curativas e de cheiro forte\",
+        "images": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/770766",
+        "cords": "38.014465993685434, -7.862596573995358"
+      },
+          {
+        "idPoint": 8,
+        "monumentId": "2",
+        "name": "Cine-Teatro Pax Julia",
+        "description": "O Teatro Pax Julia foi inaugurado em 28 de Dezembro de 1928. Em 1952, depois de uma grande remodelação, passou a chamar-se Cine-Teatro. Em 1990 fechou portas. Foi inaugurado como Teatro Municipal em 17 de Junho de 2005 num espectáculo com Sérgio Godinho, Rão Kyao, Vitorino, Janita Salomé e Filipa Pais. É constituido por um auditório com 620 lugares e uma sala-estúdio com 130 lugares, além da cafetaria.",
+        "images": "https://semmais.pt/wp-content/uploads/2020/11/848014.jpg",
+        "cords": "38.014374457242184, -7.8619846862580385"
+      },
+          {
+        "idPoint": 9,
+        "monumentId": "2",
+        "name": "'Pelourinho de Beja",
+        "description": "Este foi mandado construir pelo rei D. Manuel I, após concessão do foral de 1521. Teria sido inicialmente instalado no terreiro dos Paços do Concelho, sendo no início do século XIX transferido para a atual Praça da República. À semelhança de outros do mesmo período, teria no topo os emblemas do monarca, nomeadamente a esfera armilar e a cruz de Cristo. No decorrer do século XIX, em data desconhecida, terá sido desmontado, tendo desaparecido grande parte dos seus elementos, apenas se preservando o capitel, o remate e parte do fuste. Em 1938 foi reconstruído, mas com a introdução de algumas alterações, não sendo incluídos os elementos que se conservavam do século XVI, para, em 2001, ter sofrido um acidente que o danificou. É um fruto de uma perspetiva para com o património histórico muito comum na primeira metade do século XX.",
+        "images": "'https://live.staticflickr.com/68/185721718_6a569d5ce0_b.jpg",
+        "cords": "38.01574306985362, -7.86249910213545"
+      },
+          {
+        "idPoint": 10,
+        "monumentId": "2",
+        "name": "Igreja da Misericórdia",
+        "description": "Erguida no século XVI a mando do Infante D. Luís, trata-se de um edifício único no panorama da arquitectura portuguesa. Trata-se de um edifício único no panorama da arquitectura nacional. Quando, pouco depois de 1530, o infante D. Luís, duque de Beja, mandou erguer a actual Igreja da Misericórdia, a ideia era fazer uns açougues no topo da principal praça da cidade. O edifício seguia a tipologia das loggia italianas, profundamente influenciado pelo Renascimento italiano. O edifício tinha tal magnificência que o próprio D. Luís o considerou desadequado para a sua função inicial, tendo-o oferecido à confraria da Santa Casa da Misericórdia para a instalação da respectiva igreja, sendo adaptado a esta função.",
+        "images": "https://cm-beja.pt/util/imgLoader2.ashx?img=/upload_files/client_id_1/website_id_1/Beja/IMG_597111.JPG",
+        "cords": "38.01669964568713, -7.8610520042709"
+      },
+          {
+        "idPoint": 11,
+        "monumentId": "3",
+        "name": "Villa Romana de Pisões",
+        "description": "A Villa romana de Pisões é um sítio arqueológico no concelho de Beja, em Portugal. Consiste numa grande casa senhorial do período romano, que foi ocupada desde o Século I até ao domínio visigótico. É uma das principais e melhor conservadas villas romanas em todo o país, tendo sido classificada como Imóvel de Interesse Público. É especialmente conhecida devido à riqueza dos seus mosaicos, e pelas suas termas, que estão entre as mais importantes no país.",
+        "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816614021360%29.jpg/1280px-Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816614021360%29.jpg",
+        "cords": "37.99773365503287, -7.948811262211767"
+      },
+          {
+        "idPoint": 12,
+        "monumentId": "3",
+        "name": "Antigo complexo termal",
+        "description": "Um complexo termal, equipado com um hipocausto para aquecimento, decorado com placas de mármore. Uma das salas apresenta no seu interior um tanque com cobertura de mosaicos marinhos, que seria talvez utilizado como modo de amenizar a sala, de forma a providenciar um espaço para lazer onde os habitantes podiam refugiar-se do calor, durante os meses mais quentes. A fachada principal do edifício estava orientada para Sul, e pode ter incluído um espelho de água, que era um dos maiores da península, neste tipo de edifícios.",
+        "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816615278039%29.jpg/1280px-Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816615278039%29.jpg",
+        "cords": "37.99773365503287, -7.948811262211767"
+      },
+          {
+        "idPoint": 13,
+        "monumentId": "3,
+        "name": "Antigo tanque ou piscina",
+        "description": "A uma distância de cerca de 200 m da villa foi descoberto o paredão de uma barragem, que servia para fornecer a casa e a exploração agrícola e pecuária. Com efeito, a casa possuía várias estruturas que aproveitavam o abastecimento de água, como a zona das termas e vários grandes tanques e piscinas. Esta estrutura estava situada na Ribeira da Chaminé, formando uma albufeira com 340 m de comprimento e uma área inundada de 31300 m², e uma capacidade máxima de 38 mil m³ de água.",
+        "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816800286391%29.jpg/1280px-Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816800286391%29.jpg",
+        "cords": "37.99773365503287, -7.948811262211767"
+      },
+          {
+        "idPoint": 14,
+        "monumentId": "3",
+        "name": "Mosaico com formas de peixes",
+        "description": "Um dos motivos pelo qual a villa é conhecida são os seus mosaicos, tanto a duas cores como policromáticos, criando formas geométricas ou de teor natural. Os desenhos geométricos são circunferências, quadrados, triângulos, hexágonos, cruzes, suásticas e delta, enquanto que os temas naturais incluem pombas e animais marinhos, como uma enguia e um peixe.",
+        "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mosaic_floor%2C_Roman_Villa_of_Pis%C3%B5es%2C_Lusitania%2C_Portugal_%2813029897684%29.jpg/1280px-Mosaic_floor%2C_Roman_Villa_of_Pis%C3%B5es%2C_Lusitania%2C_Portugal_%2813029897684%29.jpg",
+        "cords": "37.99773365503287, -7.948811262211767"
+      },
+          {
+        "idPoint": 15,
+        "monumentId": "3",
+        "name": "Mosaico com motivos geométricos e vegetalistas",
+        "description": "A villa de Pisões é uma das mais importantes e melhor conservadas estruturas deste tipo, em toda a Península Ibérica. É um dos mais relevantes vestígios do período romano no concelho de Beja, e uma das villas romanas mais originais em toda a península.",
+        "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mosaic_floor_with_geometric_and_naturalistic_motifs%2C_Roman_Villa_of_Pis%C3%B5es%2C_Lusitania%2C_Portugal_%2813029474925%29.jpg/1280px-Mosaic_floor_with_geometric_and_naturalistic_motifs%2C_Roman_Villa_of_Pis%C3%B5es%2C_Lusitania%2C_Portugal_%2813029474925%29.jpg",
+        "cords": "37.99773365503287, -7.948811262211767"
+      },
+          {
+        "idPoint": 16,
+        "monumentId": "3",
+        "name": "Ruínas de Pisões",
+        "description": "A zona em que se insere a villa de Pisões já era habitada antes do período romano, como pode ser comprovado pelos vestígios encontrados no sítio arqueológico Pisões 5, incluindo duas fossas funerárias, um ossário, ferramentas e adornos do neolítico final, fossas, peças decorativas e cerâmica dos finais da Idade do Bronze, e vestígios de edifícios, cerâmica e utensílios da segunda Idade do ferro.",
+        "images": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pis%C3%B5es_Villa_Rustica.jpg",
+        "cords": "37.99773365503287, -7.948811262211767"
       }
     ]
 }
