@@ -79,14 +79,6 @@
         "description": "Leonor de Avis ou Leonor de Portugal (1458-1525) foi Rainha ao lado do Rei D. João II (1455-1495). É uma obra do escultor Francisco Franco (1885-1955), homenagendo a monarca que mandou erguer nas Caldas da Rainha, um hospital termal, inaugurado em 1488, dinamizando assim este pequeno lugar com cerca de 30 habitantes, transformando-o na grande cidade que se ergueu em volta do complexo de águas quentes curativas e de cheiro forte.",
         "images": "https://www.allaboutportugal.pt/imagethumb/1700x/resize/770766",
         "cords": "38.014465993685434, -7.862596573995358"
-      },
-          {
-        "idPoint": 8,
-        "monumentId": "2",
-        "name": "Cine-Teatro Pax Julia",
-        "description": "O Teatro Pax Julia foi inaugurado em 28 de Dezembro de 1928. Em 1952, depois de uma grande remodelação, passou a chamar-se Cine-Teatro. Em 1990 fechou portas. Foi inaugurado como Teatro Municipal em 17 de Junho de 2005 num espectáculo com Sérgio Godinho, Rão Kyao, Vitorino, Janita Salomé e Filipa Pais. É constituido por um auditório com 620 lugares e uma sala-estúdio com 130 lugares, além da cafetaria.",
-        "images": "https://semmais.pt/wp-content/uploads/2020/11/848014.jpg",
-        "cords": "38.014374457242184, -7.8619846862580385"
-      }    
+      } 
   ]
 }
