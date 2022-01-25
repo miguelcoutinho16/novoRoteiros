@@ -11,7 +11,7 @@
       "id": 2,
       "title": "Museu Rainha D. Leonor",
       "shortDescription": "Também referido como Museu Regional de Beja, no Alentejo, localiza-se nas dependências do antigo Convento da Conceição, na freguesia de Santa Maria da Feira, na cidade e concelho de Beja",
-      "longDescription": "O edifício do convento encontra-se classificado como Monumento Nacional desde 1922. O Convento foi fundado em 1459 pelo Infante D. Fernando, irmão de Afonso V de Portugal, e sua esposa, a Infanta D. Beatriz. O convento, primitivamente era bastante amplo mas, séculos mais tarde, sofreu a demolição de uma parte. Este museu conheceu três fases distintas enquanto instituição museológica, Museu Sisenando-Cenáculo-Pacense, entre os anos de 1791 e 1802, Museu Archeologico Municipal de Beja, entre os anos de 1892 e 1927, Museu Rainha Dona Leonor ou Museu Regional de Beja, de 1927 até à actualidade.",
+      "longDescription": "O edifício do convento encontra-se classificado como Monumento Nacional desde 1922. O Convento foi fundado em 1459 pelo Infante D. Fernando, irmão de Afonso V de Portugal, e sua esposa, a Infanta D. Beatriz. O convento, primitivamente era bastante amplo mas, séculos mais tarde, sofreu a demolição de uma parte. Este museu conheceu três fases distintas enquanto instituição museológica, Museu Sisenando-Cenáculo-Pacense, entre os anos de 1791 e 1802, Museu Archeologico Municipal de Beja, entre os anos de 1892 e 1927.",
       "image": "https://www.radiopax.com/wp-content/uploads/2020/05/museu.jpg"
     },
     {
@@ -28,7 +28,7 @@
         "idPoint": 1,
         "monumentId": "1",
         "name": "Castelo de Beja",
-        "description": "Os vestígios do castelo situam-se no topo de uma colina, ao longo da qual se estendem as fortificações muralhadas da cidade de Beja, rodeadas por jardins paisagísticos. Imediatamente nas proximidades encontram-se a Sé Catedral, a Capela de Santo Amaro, o edifício do Hospital da Misericórdia, as residências das famílias Guedes e Campos e o Paço Municipal. O castelo é o núcleo principal de um conjunto de fortificações que engloba a cidade medieval, implantado no seu canto noroeste. É uma planta pentagonal irregular, com uma barbacã irregular parcialmente circundada ao norte e ao sul. As duas linhas de paredes são revestidas por merlões paralelos sobre canhoneiras, circundados internamente por adarves e reforçados por cachorros e torres.",
+        "description": "Os vestígios do castelo situam-se no topo de uma colina, ao longo da qual se estendem as fortificações muralhadas da cidade de Beja, rodeadas por jardins paisagísticos. Imediatamente nas proximidades encontram-se a Sé Catedral, a Capela de Santo Amaro, o edifício do Hospital da Misericórdia, as residências das famílias Guedes e Campos e o Paço Municipal. O castelo é o núcleo principal de um conjunto de fortificações que engloba a cidade medieval, implantado no seu canto noroeste.",
         "images": "https://www.iberian-escapes.com/images/beja-castle1.jpg",
         "cords": "38.0180229821624, -7.865595446030647"
       }, 
@@ -36,7 +36,7 @@
         "idPoint": 2,
         "monumentId": "1",
         "name": "Torre de Menagem",
-        "description": "Embora a primitiva ocupação humana do seu sítio remonte à pré-história e esteja mencionada nos escritos de Ptolomeu e de Políbio, em meados do século II a.C., a sua fortificação data da Invasão romana da Península Ibérica, plausivelmente, devido à importância adquirida no cenário regional. Foi este o local escolhido por Júlio César para formalizar a paz com os Lusitanos (49d.C), após o que passou a se denominar de Pax Julia, vindo a sediar uma das três jurisdições romanas da Lusitânia. Acredita-se que os muros de defesa romanos remontem algures entre o século III e o século IV. Essa relevância económica e estratégica de Beja manteve-se à época dos Suevos, dos Visigodos, bem como sob a ocupação Muçulmana.",
+        "description": "Embora a primitiva ocupação humana do seu sítio remonte à pré-história e esteja mencionada nos escritos de Ptolomeu e de Políbio, em meados do século II a.C., a sua fortificação data da Invasão romana da Península Ibérica, plausivelmente, devido à importância adquirida no cenário regional. Foi este o local escolhido por Júlio César para formalizar a paz com os Lusitanos (49d.C), após o que passou a se denominar de Pax Julia, vindo a sediar uma das três jurisdições romanas da Lusitânia. Acredita-se que os muros de defesa romanos remontem algures entre o século III e o século IV.",
         "images": "https://www.tribunaalentejo.pt/sites/default/files/styles/article_teaser/public/field/image/beja_torre_0.png?itok=sHMjZwCG",
         "cords": "38.01743373220929, -7.865459640828172"
       },
@@ -44,7 +44,7 @@
         "idPoint": 3,
         "monumentId": "1",
         "name": "Portas de Avis",
-        "description": "As Portas de Avis, são um arco romano de pedra granítica, situado junto ao Terreirinho das Peças. Foi em tempos encimado por uma Ermida (Nossa Senhora da Guia), tendo sido ambos demolidos em finais do século XIX. No século XX, mais precisamente em 1939, o arco foi reconstruído, ficando com a estrutura atual. Até ao século XX, alguns autores, identificavam a Pax Julia romana com a cidade espanhola de Badajoz. Esta identificação foi avançada por Rodrigo Dosma, um cónego de Badajoz do século XVI, em cuja época era habitual a elaboração mais ou menos fantasiosa, quando não completamente inventada, da história de cidades, com o objetivo de demonstrar uma grande antiguidade e a origem romana ou anterior.",
+        "description": "As Portas de Avis, são um arco romano de pedra granítica, situado junto ao Terreirinho das Peças. Foi em tempos encimado por uma Ermida (Nossa Senhora da Guia), tendo sido ambos demolidos em finais do século XIX. No século XX, mais precisamente em 1939, o arco foi reconstruído, ficando com a estrutura atual. Até ao século XX, alguns autores, identificavam a Pax Julia romana com a cidade espanhola de Badajoz.",
         "images": "https://media-cdn.tripadvisor.com/media/photo-s/12/98/af/d1/arco-das-portas-de-avis.jpg",
         "cords": "38.01745492841789, -7.862350529282018"
       },
@@ -52,7 +52,7 @@
         "idPoint": 4,
         "monumentId": "1",
         "name": "Sé Catedral de Beja",
-        "description": "A paróquia de Santiago Maior é uma das mais antigas de Beja. No início, teve sede na Igreja de Santo Amaro, mas no século XIV foi transferida para este local, onde já existia uma igreja. O templo atual, em estilo maneirista, data de 1590, quando foi construído por vontade do arcebispo D. Teotónio de Bragança segundo um projeto de Jorge Rodrigues. Em matéria de arquitetura, este templo segue a tipologia maneirista, já aplicada noutros monumentos do Alentejo, como, por exemplo, na Igreja de Santo António em Évora. No interior, ricamente decorado, destacam-se o retábulo da capela-mor em talha dourada da autoria do mestre lisboeta Manuel João da Fonseca, datado de 1696-97.",
+        "description": "A paróquia de Santiago Maior é uma das mais antigas de Beja. No início, teve sede na Igreja de Santo Amaro, mas no século XIV foi transferida para este local, onde já existia uma igreja. O templo atual, em estilo maneirista, data de 1590, quando foi construído por vontade do arcebispo D. Teotónio de Bragança segundo um projeto de Jorge Rodrigues. Em matéria de arquitetura, este templo segue a tipologia maneirista, já aplicada noutros monumentos do Alentejo, como, por exemplo, na Igreja de Santo António em Évora.",
         "images": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/84/10/63/cattedrale-di-beja-facciata.jpg?w=1200&h=-1&s=1",
         "cords": "38.017669295169156, -7.864997953435491"
       },
@@ -60,7 +60,7 @@
         "idPoint": 5,
         "monumentId": "1",
         "name": "Museu Jorge Vieira",
-        "description": "Instalado, desde maio de 1995, num edifício do centro histórico da cidade, encontra-se desde 1 de setembro de 2019 na antiga casa do Governador, no Castelo de Beja, albergando um importante conjunto de esculturas, maquetas e desenhos da autoria de Jorge Vieira, artista plástico que marcou o percurso da arte portuguesa ao longo do século XX. Jorge Ricardo da Conceição Vieira nasceu em Lisboa, a16 de novembro de1922. Entre 1944 e 1953 frequentou a Escola de Belas-Artes de Lisboa, onde começou por se matricular em arquitetura transitando depois para escultura. Foi aluno de Simões de Almeida e Leopoldo de Almeida e trabalhou nos ateliers de António Duarte, Francisco Franco e António Rocha.",
+        "description": "Instalado, desde maio de 1995, num edifício do centro histórico da cidade, encontra-se desde 1 de setembro de 2019 na antiga casa do Governador, no Castelo de Beja, albergando um importante conjunto de esculturas, maquetas e desenhos da autoria de Jorge Vieira, artista plástico que marcou o percurso da arte portuguesa ao longo do século XX. Jorge Ricardo da Conceição Vieira nasceu em Lisboa, a16 de novembro de1922. Entre 1944 e 1953 frequentou a Escola de Belas-Artes de Lisboa, onde começou por se matricular em arquitetura transitando depois para escultura.",
         "images": "https://visitasdeestudo.pt/wp-content/uploads/2020/03/Museu-Jorge-Vieira-00.jpg",
         "cords": "38.01701524853704, -7.865036271610186"
       },
@@ -68,7 +68,7 @@
         "idPoint": 6,
         "monumentId": "2",
         "name": "Museu Rainha D. Leonor",
-        "description": "A colecção principal compreende a secção de arqueologia romana, com peças encontradas na região reveladoras da ocupação do território durante o império de Júlio César, a secção de epigrafia e heráldica medieval, constituída por um conjunto de brasões e lápides tumulares, e, no 2º piso do museu, a apresentação do espólio reunido pelo arqueólogo Fernando Nunes Ribeiro e doado à cidade, com peças desde a Idade do Bronze até à actualidade. O Convento foi fundado em 1459 pelo Infante D. Fernando, irmão de Afonso V de Portugal, e sua esposa, a Infanta D. Beatriz. O convento, primitivamente era bastante amplo mas, séculos mais tarde, sofreu a demolição de uma parte.",
+        "description": "A colecção principal compreende a secção de arqueologia romana, com peças encontradas na região reveladoras da ocupação do território durante o império de Júlio César, a secção de epigrafia e heráldica medieval, constituída por um conjunto de brasões e lápides tumulares, e, no 2º piso do museu, a apresentação do espólio reunido pelo arqueólogo Fernando Nunes Ribeiro e doado à cidade, com peças desde a Idade do Bronze até à actualidade.",
         "images": "https://www.info4camper.com/fotos/visitar/pt/large/photos-7488-8836-museu_rainha_dona_leonor.jpg?image=2",
         "cords": "38.014322661762336, -7.862612737220794"
       },
@@ -84,7 +84,7 @@
         "idPoint": 9,
         "monumentId": "2",
         "name": "Pelourinho de Beja",
-        "description": "Este foi mandado construir pelo rei D. Manuel I, após concessão do foral de 1521. Teria sido inicialmente instalado no terreiro dos Paços do Concelho, sendo no início do século XIX transferido para a atual Praça da República. À semelhança de outros do mesmo período, teria no topo os emblemas do monarca, nomeadamente a esfera armilar e a cruz de Cristo. No decorrer do século XIX, em data desconhecida, terá sido desmontado, tendo desaparecido grande parte dos seus elementos, apenas se preservando o capitel, o remate e parte do fuste. Em 1938 foi reconstruído, mas com a introdução de algumas alterações, não sendo incluídos os elementos que se conservavam do século XVI, para, em 2001, ter sofrido um acidente que o danificou. É um fruto de uma perspetiva para com o património histórico muito comum na primeira metade do século XX.",
+        "description": "Este foi mandado construir pelo rei D. Manuel I, após concessão do foral de 1521. Teria sido inicialmente instalado no terreiro dos Paços do Concelho, sendo no início do século XIX transferido para a atual Praça da República. À semelhança de outros do mesmo período, teria no topo os emblemas do monarca, nomeadamente a esfera armilar e a cruz de Cristo.",
         "images": "https://live.staticflickr.com/68/185721718_6a569d5ce0_b.jpg",
         "cords": "38.01574306985362, -7.86249910213545"
       },
@@ -92,7 +92,7 @@
         "idPoint": 10,
         "monumentId": "2",
         "name": "Igreja da Misericórdia",
-        "description": "Erguida no século XVI a mando do Infante D. Luís, trata-se de um edifício único no panorama da arquitectura portuguesa. Trata-se de um edifício único no panorama da arquitectura nacional. Quando, pouco depois de 1530, o infante D. Luís, duque de Beja, mandou erguer a actual Igreja da Misericórdia, a ideia era fazer uns açougues no topo da principal praça da cidade. O edifício seguia a tipologia das loggia italianas, profundamente influenciado pelo Renascimento italiano. O edifício tinha tal magnificência que o próprio D. Luís o considerou desadequado para a sua função inicial, tendo-o oferecido à confraria da Santa Casa da Misericórdia para a instalação da respectiva igreja, sendo adaptado a esta função.",
+        "description": "Erguida no século XVI a mando do Infante D. Luís, trata-se de um edifício único no panorama da arquitectura portuguesa. Trata-se de um edifício único no panorama da arquitectura nacional. Quando, pouco depois de 1530, o infante D. Luís, duque de Beja, mandou erguer a actual Igreja da Misericórdia, a ideia era fazer uns açougues no topo da principal praça da cidade.",
         "images": "https://cm-beja.pt/util/imgLoader2.ashx?img=/upload_files/client_id_1/website_id_1/Beja/IMG_597111.JPG",
         "cords": "38.01669964568713, -7.8610520042709"
       },
@@ -100,7 +100,7 @@
         "idPoint": 11,
         "monumentId": "3",
         "name": "Villa Romana de Pisões",
-        "description": "A Villa romana de Pisões é um sítio arqueológico no concelho de Beja, em Portugal. Consiste numa grande casa senhorial do período romano, que foi ocupada desde o Século I até ao domínio visigótico. É uma das principais e melhor conservadas villas romanas em todo o país, tendo sido classificada como Imóvel de Interesse Público. É especialmente conhecida devido à riqueza dos seus mosaicos, e pelas suas termas, que estão entre as mais importantes no país.",
+        "description": "A Villa romana de Pisões é um sítio arqueológico no concelho de Beja, em Portugal. Consiste numa grande casa senhorial do período romano, que foi ocupada desde o Século I até ao domínio visigótico. É uma das principais e melhor conservadas villas romanas em todo o país, tendo sido classificada como Imóvel de Interesse Público.",
         "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816614021360%29.jpg/1280px-Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816614021360%29.jpg",
         "cords": "37.99773365503287, -7.948811262211767"
       },
@@ -108,7 +108,7 @@
         "idPoint": 12,
         "monumentId": "3",
         "name": "Antigo complexo termal",
-        "description": "Um complexo termal, equipado com um hipocausto para aquecimento, decorado com placas de mármore. Uma das salas apresenta no seu interior um tanque com cobertura de mosaicos marinhos, que seria talvez utilizado como modo de amenizar a sala, de forma a providenciar um espaço para lazer onde os habitantes podiam refugiar-se do calor, durante os meses mais quentes. A fachada principal do edifício estava orientada para Sul, e pode ter incluído um espelho de água, que era um dos maiores da península, neste tipo de edifícios.",
+        "description": "Um complexo termal, equipado com um hipocausto para aquecimento, decorado com placas de mármore. Uma das salas apresenta no seu interior um tanque com cobertura de mosaicos marinhos, que seria talvez utilizado como modo de amenizar a sala, de forma a providenciar um espaço para lazer onde os habitantes podiam refugiar-se do calor, durante os meses mais quentes.",
         "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816615278039%29.jpg/1280px-Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816615278039%29.jpg",
         "cords": "37.99773365503287, -7.948811262211767"
       },
@@ -116,7 +116,7 @@
         "idPoint": 13,
         "monumentId": "3",
         "name": "Antigo tanque ou piscina",
-        "description": "A uma distância de cerca de 200 m da villa foi descoberto o paredão de uma barragem, que servia para fornecer a casa e a exploração agrícola e pecuária. Com efeito, a casa possuía várias estruturas que aproveitavam o abastecimento de água, como a zona das termas e vários grandes tanques e piscinas. Esta estrutura estava situada na Ribeira da Chaminé, formando uma albufeira com 340 m de comprimento e uma área inundada de 31300 m², e uma capacidade máxima de 38 mil m³ de água.",
+        "description": "A uma distância de cerca de 200 m da villa foi descoberto o paredão de uma barragem, que servia para fornecer a casa e a exploração agrícola e pecuária. Com efeito, a casa possuía várias estruturas que aproveitavam o abastecimento de água, como a zona das termas e vários grandes tanques e piscinas.",
         "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816800286391%29.jpg/1280px-Roman_Villa_of_Pis%C3%B5es%2C_Portugal_%2816800286391%29.jpg",
         "cords": "37.99773365503287, -7.948811262211767"
       },
