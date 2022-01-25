@@ -135,14 +135,6 @@
         "description": "A villa de Pisões é uma das mais importantes e melhor conservadas estruturas deste tipo, em toda a Península Ibérica. É um dos mais relevantes vestígios do período romano no concelho de Beja, e uma das villas romanas mais originais em toda a península.",
         "images": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Mosaic_floor_with_geometric_and_naturalistic_motifs%2C_Roman_Villa_of_Pis%C3%B5es%2C_Lusitania%2C_Portugal_%2813029474925%29.jpg/1280px-Mosaic_floor_with_geometric_and_naturalistic_motifs%2C_Roman_Villa_of_Pis%C3%B5es%2C_Lusitania%2C_Portugal_%2813029474925%29.jpg",
         "cords": "37.99773365503287, -7.948811262211767"
-      },
-          {
-        "idPoint": 16,
-        "monumentId": "3",
-        "name": "Ruínas de Pisões",
-        "description": "A zona em que se insere a villa de Pisões já era habitada antes do período romano, como pode ser comprovado pelos vestígios encontrados no sítio arqueológico Pisões 5, incluindo duas fossas funerárias, um ossário, ferramentas e adornos do neolítico final, fossas, peças decorativas e cerâmica dos finais da Idade do Bronze, e vestígios de edifícios, cerâmica e utensílios da segunda Idade do ferro.",
-        "images": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pis%C3%B5es_Villa_Rustica.jpg",
-        "cords": "37.99773365503287, -7.948811262211767"
       }
     ]
 }
